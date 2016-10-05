@@ -241,6 +241,25 @@ a:focus {
   background-size: cover;
   -o-background-size: cover;
 }
+.img-spacer2-section {
+  width: 100%;
+  padding: 50px 0;
+  color: white;
+  /*
+  background: url(../img/downloads-bg.jpg) no-repeat center center scroll;
+  background: url(../img/stjosephroch84.jpg) no-repeat top center scroll;
+  background: url(../img/olvictory27.jpg) no-repeat center center scroll;
+  background: url(../img/inside_old.png) no-repeat center center scroll;
+  background: url(../img/inside_old.PNG) no-repeat center center fixed;
+  */
+  background: url(../img/piusix_mcquaid.png) no-repeat center 40px fixed;
+  background-position: center 200px center 10px;
+  background-color: #6291D5;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
 #map {
   width: 100%;
   height: 200px;
@@ -248,9 +267,12 @@ a:focus {
 }
 @media (min-width: 767px) {
   .content-section {
-    padding-top: 100px;
+    padding-top: 50px;
   }
   .download-section {
+    padding: 100px 0;
+  }
+  .img-spacer2-section {
     padding: 100px 0;
   }
   #map {
@@ -321,4 +343,20 @@ img::-moz-selection {
 }
 body {
   webkit-tap-highlight-color: rgba(255, 255, 255, 0.2);
+}
+
+a.olvlink {
+  color: #FFFF99;
+}
+
+a.olvlink:visited {
+  color: #FFFF99;
+}
+
+a.olvlink:hover {
+  color: yellow;
+}
+
+a.olvlink:active {
+    color: black;
 }
