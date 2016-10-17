@@ -135,6 +135,25 @@ a:focus {
   background-size: cover;
   -o-background-size: cover;
 }
+@media (max-width: 767px) {
+  /*
+  .navbar {
+    margin-bottom: 50px;
+  }
+  */
+  .intro {
+    background-image: (../img/olvictory1.jpg)
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top center;
+    /*
+    background-position: calc(100% - 20px) center;
+    background-position: top 500px;
+    */
+  }
+  /*
+  */
+}
 .intro .intro-body {
   display: table-cell;
   vertical-align: middle;
@@ -226,7 +245,7 @@ a:focus {
 }
 .download-section {
   width: 100%;
-  padding: 50px 0;
+  padding: 100px 0;
   color: white;
   /*
   background: url(../img/downloads-bg.jpg) no-repeat center center scroll;
@@ -234,7 +253,7 @@ a:focus {
   background: url(../img/olvictory27.jpg) no-repeat center center scroll;
   background: url(../img/inside_old.png) no-repeat center center scroll;
   */
-  background: url(../img/inside_old.PNG) no-repeat center center fixed;
+  background: url(../img/inside_old.png) no-repeat center center fixed;
   background-color: #6291D5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -243,7 +262,7 @@ a:focus {
 }
 .img-spacer2-section {
   width: 100%;
-  padding: 50px 0;
+  padding: 100px 0;
   color: white;
   /*
   background: url(../img/downloads-bg.jpg) no-repeat center center scroll;
@@ -267,13 +286,13 @@ a:focus {
 }
 @media (min-width: 767px) {
   .content-section {
-    padding-top: 50px;
+    padding-top: 100px;
   }
   .download-section {
-    padding: 100px 0;
+    padding: 200px 0;
   }
   .img-spacer2-section {
-    padding: 100px 0;
+    padding: 200px 0;
   }
   #map {
     height: 400px;
