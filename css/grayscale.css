@@ -379,3 +379,10 @@ a.olvlink:hover {
 a.olvlink:active {
     color: black;
 }
+
+.attention {
+  border-color: yellow;
+  border-style: solid;
+  padding: 10px;
+  border: 1;
+}
