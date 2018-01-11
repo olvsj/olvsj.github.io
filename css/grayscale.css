@@ -155,6 +155,9 @@ a:focus {
     padding: 200px 0;
     background-attachment: scroll;
     background: url(../img/inside_old2.png) no-repeat center center scroll;
+    /*
+    background: url(../img/olv-restoration-proposal.png) no-repeat center center scroll;
+    */
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -270,6 +273,9 @@ a:focus {
   .download-section {
     padding: 200px 0;
     background: url(../img/inside_old2.png) no-repeat center center fixed;
+    /*
+    background: url(../img/olv-restoration-proposal.png) no-repeat center center fixed;
+    */
     width: 100%;
     color: white;
     background-color: #6291D5;
