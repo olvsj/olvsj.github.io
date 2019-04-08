@@ -1,3 +1,8 @@
+<?php 
+header("Cache-Control: no-cache, no-store, must-revalidate"); // HTTP 1.1.
+header("Pragma: no-cache"); // HTTP 1.0.
+header("Expires: 0"); // Proxies.
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -31,7 +36,7 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
-
+	
 	<!-- Cache Control -->
 	<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
 	<meta http-equiv="Pragma" content="no-cache" />
@@ -348,9 +353,12 @@
                   photos courtesy of 
                   <a class="olvlink" href="http://dorchurches.com/olvictory">dorchurches</a>.<a class="olvlink" href="http://dorchurches.com/stjosephroch">com</a>
                 </p>
+                <!--
+                This has been replaced by the php include below
                 <p style="font-size: 16px; font-family: Arial;">
                   <a class="olvlink" href="https://www.dor.org/safe/"><i>Creating a Safe Environment</i></a>
                 </p>
+                -->
             </div>
         </div>
     </section>
@@ -392,6 +400,8 @@
     -->
     <script src="js/grayscale.js"></script>
 
+	<?php include 'https://www.dor.org/scripts/footer.php'; ?>
+	
 </body>
 
 </html>
