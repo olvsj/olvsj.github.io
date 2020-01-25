@@ -145,11 +145,11 @@ header("Expires: 0"); // Proxies.
                 <a class="olvlink attention" href="https://docs.google.com/document/d/1ByswN5AWw8kxGA7MBh1OJ_vaOXfwBmJZ_tgASuhoRL0/edit?usp=sharing">Christmas Message</a>
               </p>
               <br />
-              -->
               <p>
                 <a class="olvlink attention" href="https://docs.google.com/document/u/1/export?format=pdf&id=1aoWNt7uDwohQqPOtMWxjhBT_7v6TgiX3Wo5bJHDW1IU&token=AC4w5Vgm23kYwYhuMloA1y70dWwQXRizSA%3A1554368346600&includes_info_params=true">Easter Schedule</a>
               </p>
               <br />
+              -->
               <h4>Our Lady of Victory / St. Joseph</h4>
               <p>
                 210 Pleasant St <br />
@@ -165,7 +165,7 @@ header("Expires: 0"); // Proxies.
                 <br />
                 Fax: (585) 454-2246
                 <br />
-                Email: <a class="olvlink" href="mailto:olvsj@frontiernet.net">olvsj@frontiernet.net</a>
+                Email: <a class="olvlink" href="mailto:ourladyvictory@dor.org">ourladyvictory@dor.org</a>
               </p>
               <h4>
                 Rev. Ronald A. Antinarelli, KCHS - Pastor
@@ -175,10 +175,12 @@ header("Expires: 0"); // Proxies.
               </p>
               <p>
                 Weekday Masses: Mon-Wed &amp; Fri-Sat 12:10 PM
+                <!--
                 <br />
                 (with Novena Devotions for the day)
                 <br />
                 Tues. St. Anthony 12:00 PM; Wed. Perpetual Help 11:50 AM; Fri. St. Jude 12PM
+                -->
               </p>
               <p>
                 Confessions: Before all weekday Masses - Mon-Wed &amp; Fri-Sat 11:30 AM
@@ -336,7 +338,7 @@ header("Expires: 0"); // Proxies.
             <div class="col-lg-8 col-lg-offset-2">
                 <p>
                   Contributions may be made online safely and securely using a third party service.
-                  These contrtibuions may be setup as a one-time donation or as recurring payments.
+                  These contributions may be setup as a one-time donation or as recurring payments.
                   Just click the button below.
                 </p>
                 <p>
