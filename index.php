@@ -28,7 +28,7 @@ header("Expires: 0"); // Proxies.
     <!--
     <link href="css/grayscale.min.css" rel="stylesheet">
     -->
-    <link href="css/grayscale.css?ts=2017-12-15" rel="stylesheet">
+    <link href="css/grayscale.css?ts=2020-03-30b" rel="stylesheet">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -42,9 +42,15 @@ header("Expires: 0"); // Proxies.
 	<meta http-equiv="Pragma" content="no-cache" />
 	<meta http-equiv="Expires" content="0" />
 
+    <!-- added 2020-11-06 -->
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+
 </head>
 
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+
+    <div id="fb-root"></div>
+    <script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
 
     <!-- Navigation -->
     <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
@@ -129,10 +135,250 @@ header("Expires: 0"); // Proxies.
         </div>
     </header>
 
+<!--
+    <section class="container content-section text-center">
+      <div class="row">
+    <div class="fb-post" data-href="https://www.facebook.com/112298260419267/videos/572872560042851/" data-show-text="false" data-width=""><blockquote cite="https://developers.facebook.com/112298260419267/videos/572872560042851/" class="fb-xfbml-parse-ignore">Posted by <a href="https://www.facebook.com/Our-Lady-of-Victory-St-Joseph-112298260419267/">Our Lady of Victory / St. Joseph</a> on&nbsp;<a href="https://developers.facebook.com/112298260419267/videos/572872560042851/">Sunday, June 28, 2020</a></blockquote></div>
+      </div>
+    </section>
+    -->
+
     <!-- About Section -->
     <section id="about" class="container content-section text-center">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
+
+
+<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingOne">
+      <h4 class="panel-title">
+        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+          Collapsible Group Item #1
+        </a>
+      </h4>
+    </div>
+    <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+      <div class="panel-body">
+        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+      </div>
+    </div>
+  </div>
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingTwo">
+      <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+          Collapsible Group Item #2
+        </a>
+      </h4>
+    </div>
+    <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+      <div class="panel-body">
+        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+      </div>
+    </div>
+  </div>
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingThree">
+      <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+          Collapsible Group Item #3
+        </a>
+      </h4>
+    </div>
+    <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+      <div class="panel-body">
+        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+              <p class="olvlink attention">
+                <span style="font-size: 130%;">COVID-19 UPDATE</span>
+                <br />
+                <!--
+                Masses are live streamed here (above) on Sundays at 10AM and on our
+                Masses are live streamed here (above) on Sundays at 10AM and on our
+                <a class="olvlink" href="https://www.facebook.com/Our-Lady-of-Victory-St-Joseph-112298260419267">facebook page</a>.
+                -->
+                ------------------------------------
+                <br />
+                Masses at OLV/SJ are no longer be live streamed.
+                <!--
+                -->
+                <br />
+                <br />
+                Recordings of previously live streamed masses archived on our 
+                <a class="olvlink" href="https://www.youtube.com/channel/UCz8P4WfYKE2xd_Lpm04SuBg">youtube channel</a>.
+                <br />
+                ------------------------------------
+                <br />
+                <br />
+                O Most Blessed Virgin Mary, Mother of Mercy, at this most critical time, we entrust the United States of America to your loving care.
+                <br />
+                <br />
+
+                Most Holy Mother, we beg you to reclaim this land for the glory of your Son. Overwhelmed with the burden of the sins of our nation, we cry to you from the depths of our hearts and seek refuge in your motherly protection.
+                <br />
+                <br />
+
+                Look down with mercy upon us and touch the hearts of our people. Open our minds to the great worth of human life and to the responsibilities that accompany human freedom.
+                <br />
+                <br />
+
+                Free us from the falsehoods that lead to the evil of abortion and threaten the sanctity of family life. Grant our country the wisdom to proclaim that God’ s law is the foundation on which this nation was founded, and that He alone is the True Source of our cherished rights to life, liberty and the pursuit of happiness.
+                <br />
+                <br />
+
+                O Merciful Mother, give us the courage to reject the culture of death and the strength to build a new Culture of Life.
+                <!--
+                <br />
+                <a class="olvlink" href="https://www.youtube.com/watch?v=Cg2a-rs46r8">
+                  4th Sunday of Lent - Laetare Sunday - 2020-03-29 (better audio)</a>
+                <br />
+                <a class="olvlink" href="https://www.youtube.com/watch?v=tczfEP3NJII">
+                  5th Sunday of Lent 2020-03-22 (poor audio quality)
+                </a>
+                <br />
+                <br />
+                -->
+                <!--
+                <br />
+                March 25, 2020
+                <br />
+                Our Lady of Victory Church is open for 
+                visits to the Most Blessed Sacrament 
+                daily, every day (EXCEPT THURSDAYS)
+                from 11 A.M. until 1 P.M.  
+                <br />
+                <br />
+                Please email your current email address to: 
+                <a class="olvlink" href="mailto:ourladyvictory@dor.org">ourladyvictory@dor.org</a>
+                to receive the most current information.
+                -->
+                <br />
+                ------------------------------------
+                <br />
+                <span style="text-align:left; float:left;">
+                  <br />
+                  My dear People,
+                  <br />
+                  <br />
+                  Considering the current madness and the unreasoned and unreasonable responses of our increasingly dictatorial governmental pundits and their un-American socialistic agenda, I encourage you to read the Encyclical of His Holiness Pope Pius XI, called Quadragesimo anno, promulgated in 1931.  Please share its wisdom and logic with especially our young people.  Pius XI was a firebrand, unafraid to speak the Truth in the face of derision and threats to his own sacred Person.
+                  <br />
+                  <br />
+            Remember this, the Church is free and so is this country.  Pray for the spread of Catholic Truth and reject whatever is contrary to it!  God bless you.
+                  <br />
+                  <br />
+                  Sincerely in Christ,
+                  <br />
+                  Father Ronald A. Antinarelli
+                  <br />
+                  <br />
+                  August 25th, 2020
+                  <br />
+                </span>
+                <br />
+                ------------------------------------
+                <br />
+                <span style="text-align:left; float:left;">
+                  <br />
+                  My dear People,
+                  <br />
+                  <br />
+                  I urge you to be familiar with the <a href="https://www.papalencyclicals.net/pius09/p9syll.htm" class="olvlink">Syllabus of Errors</a>, published by order of His Holiness, Blessed Pope Pius IX.  I find it interesting to reread the following article condemned by that Blessed Pope: “The ecclesiastical power ought not to exercise its authority without the permission and assent of the civil government.”  I know our dear and ineffectual bishops in NYS are familiar with that one.  Too bad they defy it.  Mr. Cuomo, I owe you nothing at all.
+                  <br />
+                  <br />
+                  Sincerely in Christ,
+                  <br />
+                  Father Ronald A. Antinarelli
+                  <br />
+                  <br />
+                  Your Excellencies, your people are being kept from receiving sacramental grace ONLY because of YOU!
+                  <br />
+                  <br />
+                  June 11th, 2020
+                  <br />
+                </span>
+                <br />
+                ------------------------------------
+                <!--
+                <span style="text-align:left; float:left;">
+                  <br />
+                  My dear People,
+                  <br />
+                  <br />
+                  In case you haven’t yet read or didn’t know about Archbishop Vigano’s letter to our President, dated 7 June 2020, we <a href="Letter-President-Trump-1.pdf" class="olvlink">include it herein</a>.  The Prelate is not in good standing with the current mob in Vatican City and has for a long time lived in hiding, in fear for his own life.  I urge you to read it and to send copies to all the people you know.  Remember this: The gates of hell shall not prevail against it.
+                  <br />
+                  <br />
+                  Yours in Christ Jesus,
+                  <br />
+                  Father Antinarelli
+                  <br />
+                  June 8th, 2020
+                  <br />
+                  <br />
+                  PS.  Let us do penance for the recent worship of pagan idols in Catholic churches in Rome.  May God forgive him.
+                  <br />
+                </span>
+                <br />
+                ------------------------------------
+                -->
+                <br />
+                <span style="text-align:left; float:left;">
+                  Please note that Our Lady of Victory Church will be open during the week from 10:30 AM until 12:00 Noon each day, Monday through Saturday, except Thursday; on Thursdays, the church is closed all day.  On those days, confessions will be heard from 11:30 AM until Noon.  Thank you for your patience and understanding.  May Our Lady of Victory and St. Joseph protect you and your families.  Let us pray for the liberty and exaltation of Our Holy Mother the Church.
+                  <br />
+                  <br />
+                  God bless you.
+                  <br />
+                  <br />
+                  Father Antinarelli
+                  <br />
+                  May 31st, 2020
+                  <br />
+                </span>
+                <br />
+                ------------------------------------
+                <br />
+                <span style="text-align:left; float:left;">
+                  My dear People, 
+                  <br />
+                  <br />
+
+                  I have decided to televise my Masses here for Sundays at 10:00 AM.  It is difficult to try and find out what to do.  I refuse to allow some people to come to Mass and tell others they cannot.  I categorically refuse to do anything the governor of NYS tells me.  He is not and never will be my boss. 
+                  <br />
+                  <br />
+                  I know your frustration in all this confusion and how much you love the Lord and His Church and Sacraments.  He knows it all the better!  Pray the Memorare daily that the Virgin Most Powerful may subdue the dragon underneath her foot and crush his head.  Pray for the liberty and exaltation of our Holy Mother the Church.  Pray for our bishops, that they finally wake up and defend and feed their flocks.
+                  <br />
+                  <br />
+                  That’s all for now.  God bless you.
+                  <br />
+                  <br />
+                  Remember the words of my ecclesiastical hero, His Eminence Alfredo Cardinal Ottaviani: “Error has no rights.”
+                  <br />
+                  <br />
+                  Sincerely in Christ,
+                  <br />
+                  Father Ronald A. Antinarelli, KCHS
+                  <br />
+                  May 29th, 2020
+                  <br />
+                </span>
+                <br />
+                ------------------------------------
+                <br />
+                <a class="olvlink" href="docs/Letter-to-the-Faithful-2020-03-16.pdf">
+                <!--
+                  March 16, 2020
+                  <br />
+                  -- CLICK TO READ --
+                  -->
+                    Bishop Matano's Letter to the Faithful Regarding the Coronavirus and the Suspension of Public Masses
+                </a>
+              </p>
               <!--
               <p>
                 <a class="olvlink attention" href="https://docs.google.com/document/d/1PRYsXHg0-AgpYyVixWzApJOaFslddf5-nyhkAk-9Rss/edit?usp=sharing">2018 Holy Week Schedule</a>
@@ -150,7 +396,7 @@ header("Expires: 0"); // Proxies.
               </p>
               <br />
               -->
-              <h4>Our Lady of Victory / St. Joseph</h4>
+              <h3>Our Lady of Victory / St. Joseph</h3>
               <p>
                 210 Pleasant St <br />
                 Rochester, NY 14604
@@ -170,8 +416,11 @@ header("Expires: 0"); // Proxies.
               <h4>
                 Rev. Ronald A. Antinarelli, KCHS - Pastor
               </h4>
+              <!--
+              <p style="text-decoration: line-through;">
+              -->
               <p>
-                Weekend Masses: Saturday: 4:30 PM, Sundays 9:00 AM &amp; 11:00 AM
+                Weekend Masses: Saturday: 4:30 PM, Sundays 10:00 AM
               </p>
               <p>
                 Weekday Masses: Mon-Wed &amp; Fri-Sat 12:10 PM
@@ -360,6 +609,12 @@ header("Expires: 0"); // Proxies.
                 <p style="font-size: 16px; font-family: Arial;">
                   <a class="olvlink" href="https://www.dor.org/safe/"><i>Creating a Safe Environment</i></a>
                 </p>
+
+                <p>
+                    <a href="https://case.stretto.com/rochesterdiocese/fileaclaim">
+                        <img href="img/bar_notice.png" ></img>
+                    </a>
+                </p>
                 -->
             </div>
         </div>
@@ -402,6 +657,7 @@ header("Expires: 0"); // Proxies.
     -->
     <script src="js/grayscale.js"></script>
 
+	<?php include 'https://www.dor.org/scripts/footer-alert.php'; ?>
 	<?php include 'https://www.dor.org/scripts/footer.php'; ?>
 	
 </body>
